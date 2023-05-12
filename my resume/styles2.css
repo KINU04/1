@@ -29,3 +29,7 @@ b {
     font-family:Georgia, 'Times New Roman', Times, serif;
     border:5px solid #9ddb39;
 }
+.box2:hover{
+    color: #bbe773;
+    background: #2e71c9;
+}
